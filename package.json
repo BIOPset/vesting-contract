@@ -1,0 +1,17 @@
+{
+  "name": "vesting",
+  "version": "1.0.0",
+  "description": "time based vesting contract with no cliff\"",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shalaquiana",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0"
+  }
+}
